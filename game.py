@@ -394,6 +394,13 @@ def battle():
     main()
 
 
+
+
+
+# // LANCEMENT DU JEU //
+
+
+
 print(f'\x1b[6;35;41m' + "Bienvenue dans le jeu !" + '\x1b[0m')
 print("")
 
